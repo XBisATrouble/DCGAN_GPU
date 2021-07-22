@@ -85,4 +85,6 @@ target/
 Session.vim
 .netrwhist
 *~
-
+.vscode
+__pycache__
+/data
